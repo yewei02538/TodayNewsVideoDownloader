@@ -4,7 +4,9 @@
 
 ## 效果图
 
-![](/screenshot/20170215171208.gif)
+![](/screenshot/1.gif)
+
+![](/screenshot/2.gif)
 
 ## Demo下载
 
